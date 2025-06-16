@@ -111,15 +111,15 @@ body, html {
   }
 
   .logo {
-    width: 60%;
+    width: 50%;
   }
 
   .logo img {
-    height: 68px;
+    height: 98px;
   }
 
   .burger {
-    width: 70%;
+    width: 50%;
     text-align: right;
     font-size: 30px;
     cursor: pointer;
